@@ -1,0 +1,5 @@
+torch
+torchvision
+scipy
+matplotlib
+git+https://github.com/JohannesTheo/multi_object_datasets_torch.git@main
